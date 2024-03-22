@@ -11,4 +11,4 @@
 
 ### Write Me
 [![Telegram](https://img.shields.io/badge/Telegram-1f304e?style=for-the-badge&logo=telegram)](https://t.me/xcsdwe)
-
+![sad.gif](assets%2Fsad.gif)
