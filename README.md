@@ -4,7 +4,7 @@
 
 <h3 style="text-align: center"> Languages and Tools </h3>
 
-<div style="width: 100%; height: 30px; display: flex; justify-content: space-around">
+<div style="height: 40px; display: flex; justify-content: space-around">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-orange?style=for-the-badge"/>
     <img alt="CSS" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-b9e6ff?style=for-the-badge&amp;logo=typescript"/>
