@@ -14,7 +14,7 @@
 <h4 style="text-align: center;"> &#10084; Write Me &#10084; </h4>
 
 <div style="display: flex; justify-content: center">
-    <a href = "https://t.me/xcsdwe"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1f304e?center=true&style=for-the-badge&amp;logo=telegram"/></a>
+    <a href = "https://t.me/shadowshirley"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1f304e?center=true&style=for-the-badge&amp;logo=telegram"/></a>
 </div>
 
 <h1>
