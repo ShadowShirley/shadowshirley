@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=30&pause=1000&color=1ADCF7&background=FFFFFF00&center=true&random=false&width=435&lines=I'm+a+beginner+Front-end+developer" alt="Typing SVG" /></a>
-
 <h3 style="text-align: center">Languages and Tools</h3>
 
 <div style="height: 40px; display: flex; justify-content: space-around">
